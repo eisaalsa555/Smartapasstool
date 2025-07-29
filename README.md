@@ -15,5 +15,5 @@ This tool is only for educational and ethical hacking training purposes. Do not 
 ## 📦 Installation
 
 ```bash
-git clone https://github.com/yourusername/password_creator_tool
+git clone https://github.com/eisaalsa/password_creator_tool
 cd password_creator_tool
